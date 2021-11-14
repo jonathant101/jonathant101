@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jonathan Breno de Lima Farfan Olivares
 - 🌱 I’m currently learning JavaScript, HTML, CSS, React, Bootstrap.
+- :zap: Visit my profile in stackblitz.com/@jonathant101
 
 <div align="center">
   <a href="https://github.com/jonathant101">
