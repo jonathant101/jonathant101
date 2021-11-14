@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @jonathant101
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Jonathan Breno de Lima Farfan Olivares
 - 🌱 I’m currently learning JavaScript, HTML, CSS, React, Bootstrap.
-- 💞️ I’m looking to collaborate on ...Cancel changes
-- 📫 How to reach me ...
 
 <div align="center">
   <a href="https://github.com/jonathant101">
@@ -20,9 +17,10 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
- target="_blank"></a> 
+📫 You can find me in:
+  
+
+  <a href="https://www.reddit.com/user/jonathant101" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
   <a href = "mailto:jonathanflecha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathant101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
